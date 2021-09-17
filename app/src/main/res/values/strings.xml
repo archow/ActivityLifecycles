@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ActivityLifecycles</string>
+    <string name="send_info_txt">Send Info</string>
+    <string name="name_input">type name here</string>
+    <string name="result_placeholder">result placeholder</string>
+    <string name="send_back_placeholder">Send this result back</string>
+    <string name="click_me">Click Me</string>
+</resources>
