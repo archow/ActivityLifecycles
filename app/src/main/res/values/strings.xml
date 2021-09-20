@@ -5,4 +5,5 @@
     <string name="result_placeholder">result placeholder</string>
     <string name="send_back_placeholder">Send this result back</string>
     <string name="click_me">Click Me</string>
+    <string name="third_activity_returned_text">We just came here from Third Activity</string>
 </resources>
